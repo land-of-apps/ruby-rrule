@@ -2,6 +2,7 @@
 
 source 'https://rubygems.org'
 
+gem 'appmap'
 gem 'pry'
 gem 'rake'
 gem 'rspec', '~> 3.8'
