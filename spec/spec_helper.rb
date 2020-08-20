@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'appmap/rspec'
+
 require 'rrule'
 require 'pry'
 
