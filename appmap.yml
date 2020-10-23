@@ -1,0 +1,4 @@
+name: ruby-rrule
+
+packages:
+- path: lib
